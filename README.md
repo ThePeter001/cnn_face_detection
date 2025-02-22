@@ -17,4 +17,4 @@
 - 运行 launcher_sing_face.py, 摄像头录入人脸，标记人脸姓名
 - 运行 launcher.py，摄像头识别人脸，并找到与已知人脸相似度最高的人脸的姓名
 
-
+### welcome Mr.PETER
